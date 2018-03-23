@@ -27,4 +27,15 @@
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/MainPortfolio.html
 
 
+### Day 2: March 22, 2018 
+
+
+**Today's Progress**: Day2 challenge is to design an online invitation.
+
+**Thoughts:** Slideshow variations using javascript is very different but clearer than in jQuery. 
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/Invitation.html
+
+
+
 
