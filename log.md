@@ -27,7 +27,7 @@
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/MainPortfolio.html
 
 
-### Day 2: March 22, 2018 
+### Day 3: March 22, 2018 
 
 
 **Today's Progress**: Day2 challenge is to design an online invitation.
