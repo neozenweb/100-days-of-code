@@ -30,12 +30,19 @@
 ### Day 3: March 22, 2018 
 
 
-**Today's Progress**: Day2 challenge is to design an online invitation.
+**Today's Progress**: #30Days30Sites Day2 challenge is to design an online invitation.
 
-**Thoughts:** Slideshow variations using javascript is very different but clearer than in jQuery. 
+**Thoughts:** Slideshow variations using javascript is easier than in jQuery. 
 
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/Invitation.html
 
+### Day 4: March 24, 2018 
+
+
+**Today's Progress**: #30Days30Sites Day3 challenge is to design a tourist attractions website.
+**Thoughts:** Designing for different sizes of screens, this sample website uses hoverable opacity and border color effects. 
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/TouristAttractions.html
 
 
 
