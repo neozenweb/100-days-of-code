@@ -45,4 +45,14 @@
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/TouristAttractions.html
 
 
+### Day 5: March 25, 2018 
+
+
+**Today's Progress**: #30Days30Sites Day4 challenge is to design a product site.
+**Thoughts:** Learnt about flex container in CSS. I could have used it in the last website design. Using it now for this project, but it is still work in progress. 
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/ProductSite.html
+
+
+
 
