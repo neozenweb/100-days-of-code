@@ -55,7 +55,7 @@
 
 
 
-### Day 5: March 26, 2018 
+### Day 6: March 26, 2018 
 
 
 **Today's Progress**: Based on the model website provided, incorporated mouse events in the javascript file.
@@ -64,7 +64,7 @@
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/ProductSite.html
 
 
-### Day 6: March 27, 2018 
+### Day 7: March 27, 2018 
 
 
 **Today's Progress**: Incorporated Google Maps API into the modal popup, for the Tourist Attractions website.
