@@ -63,3 +63,12 @@
 
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/ProductSite.html
 
+
+### Day 6: March 27, 2018 
+
+
+**Today's Progress**: Incorporated Google Maps API into the modal popup, for the Tourist Attractions website.
+**Thoughts:** Google Maps API tutorial on W3Schools is very informative. Finally I think this website is ready.
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/TouristAttractions.html
+
