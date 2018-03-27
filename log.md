@@ -55,4 +55,11 @@
 
 
 
+### Day 5: March 26, 2018 
+
+
+**Today's Progress**: Based on the model website provided, incorporated mouse events in the javascript file.
+**Thoughts:** Reviewing w3.CSS modal for using in one of the earlier projects.
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/ProductSite.html
 
