@@ -72,3 +72,11 @@
 
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/TouristAttractions.html
 
+### Day 8: March 28, 2018 
+
+
+**Today's Progress**: Worked on a collection portfolio of my website samples done so far.
+**Thoughts:** This website took some logo designing and photoshop work too.
+
+**Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/NeoZenWebPortfolio.html
+
