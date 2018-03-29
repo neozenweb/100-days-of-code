@@ -80,3 +80,11 @@
 
 **Link to work:**http://rawgit.com/neozenweb/CodingChallenge/master/NeoZenWebPortfolio.html
 
+
+### Day 9: March 29, 2018 
+
+
+**Today's Progress**: FreeCodeCamp projects, one of them being the Tribute page.
+**Thoughts:** I have to finish the FreeCodeCamp projects faster to reach the advanced topics in jQuery. 
+
+**Link to work:*http://rawgit.com/neozenweb/CodingChallenge/master/EinsteinTributePage.html
