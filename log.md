@@ -88,3 +88,11 @@
 **Thoughts:** I have to finish the FreeCodeCamp projects faster to reach the advanced topics in jQuery. 
 
 **Link to work:*http://rawgit.com/neozenweb/CodingChallenge/master/EinsteinTributePage.html
+
+### Day 10: March 30, 2018 
+
+
+**Today's Progress**: FreeCodeCamp Algorithm Scripting Challenges ... more to follow
+**Thoughts:** I reviewed a lot of array and string functions with these challenges
+
+**Link to work:*
