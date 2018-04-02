@@ -96,3 +96,16 @@
 **Thoughts:** I reviewed a lot of array and string functions with these challenges
 
 **Link to work:*
+### Day 11: March 31, 2018 
+
+
+**Today's Progress**: FreeCodeCamp Algorithm Scripting Challenges
+**Thoughts:** Got stuck up with Chunky Monkey :)
+**Link to work:*
+### Day 12: April 2, 2018 
+
+
+**Today's Progress**: FreeCodeCamp Algorithm Scripting Challenges Completed
+**Thoughts:** Have to start with Intermediate Front End Projects 
+
+**Link to work:*
