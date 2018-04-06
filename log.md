@@ -109,3 +109,10 @@
 **Thoughts:** Have to start with Intermediate Front End Projects 
 
 **Link to work:*
+ 
+
+### Day 13: April 5, 2018
+**Today's Progress**: Back after a short spring break. FreeCodeCamp Random Quote Generator project completed.
+**Thoughts:** Learnt some basic concepts about JSON and how to use APIs with jQuery.
+
+**Link to work:* https://rawgit.com/neozenweb/CodingChallenge/master/RandomQuoteMachine.html
