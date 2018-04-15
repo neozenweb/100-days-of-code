@@ -116,3 +116,9 @@
 **Thoughts:** Learnt some basic concepts about JSON and how to use APIs with jQuery.
 
 **Link to work:* https://rawgit.com/neozenweb/CodingChallenge/master/RandomQuoteMachine.html
+
+
+### Day 14: April 15, 2018
+**Today's Progress**:Again an unexpected break from work. Now working on the local weather app from FreeCodecamp.
+**Thoughts:** Have to work on finding the proper weather API.
+
