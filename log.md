@@ -122,3 +122,14 @@
 **Today's Progress**:Again an unexpected break from work. Now working on the local weather app from FreeCodecamp.
 **Thoughts:** Have to work on finding the proper weather API.
 
+### Day 14: April 16, 2018
+**Today's Progress**:Completed local weather app from FreeCodecamp.
+**Thoughts:** I am learning a lot about APIs and how to extract the JSON format data from them.
+**Link to work:** https://rawgit.com/neozenweb/CodingChallenge/master/WeatherForecast.html
+
+### Day 14: April 17, 2018
+**Today's Progress**: Completed the Wiki Search Challenge from FreeCodeCamp.
+**Thoughts:** Wikipedia has an API sandbox to play around, from which I figured the appropriate URL to use for my program.
+**Link to work:** https://rawgit.com/neozenweb/CodingChallenge/master/WikiSearch.html
+
+
