@@ -132,4 +132,9 @@
 **Thoughts:** Wikipedia has an API sandbox to play around, from which I figured the appropriate URL to use for my program.
 **Link to work:** https://rawgit.com/neozenweb/CodingChallenge/master/WikiSearch.html
 
+### Day 17,18,19: April 19, April 20, April 21 2018
+**Progress**: Wowww...a nightmare project so far for me....the Twitchtv listings from FreeCodeCamp.Finally the localhost version is working. I have to make some changes in the javascript to include the github url for the AJAX GET and POST calls.
+**Thoughts:** Owing to the recent API changes by Twitch.tv and the time it took to figure out my way through the new URLs and related AJAX calls, it took me 3 days to complete until this stage.
+**Link to work:** In progress....
+
 
