@@ -136,5 +136,8 @@
 **Progress**: Wowww...a nightmare project so far for me....the Twitchtv listings from FreeCodeCamp.Finally the localhost version is working. I have to make some changes in the javascript to include the github url for the AJAX GET and POST calls.
 **Thoughts:** Owing to the recent API changes by Twitch.tv and the time it took to figure out my way through the new URLs and related AJAX calls, it took me 3 days to complete until this stage.
 **Link to work:** In progress....
-
+### Day 20: April 24 2018
+**Progress**: Worked again on the Animal Card project of the Udacity Front End Developer Nanodegree, as the earlier submission was deleted.
+**Thoughts:** Glad to be on the phase2 of the Grow With Google Challenge - Phase 2
+**Link to work:** Animal Card project rework...
 
