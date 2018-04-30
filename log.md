@@ -140,4 +140,9 @@
 **Progress**: Worked again on the Animal Card project of the Udacity Front End Developer Nanodegree, as the earlier submission was deleted.
 **Thoughts:** Glad to be on the phase2 of the Grow With Google Challenge - Phase 2
 **Link to work:** Animal Card project rework...
+### Day 21,22,23,24: April 25, April 26, April 27, April 28 2018
+**Progress**: First project of the Phase2-GWG FEND Nanodegree: Developed responsive web design for my profile showcasing some of my previous projects. After researching about Google Cloud and Firebase hosting, I went ahead and set up my website.
+**Thoughts:** em VS px VS %   IE Vs Chrome
+**Link to work:** neowebzen.com
+
 
