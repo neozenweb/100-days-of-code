@@ -144,5 +144,8 @@
 **Progress**: First project of the Phase2-GWG FEND Nanodegree: Developed responsive web design for my profile showcasing some of my previous projects. After researching about Google Cloud and Firebase hosting, I went ahead and set up my website.
 **Thoughts:** em VS px VS %   IE Vs Chrome
 **Link to work:** neowebzen.com
+### Day 25: April 30, 2018
+**Progress**: Worked more on the responsive design of the portfolio project.
+**Link to work:** neowebzen.com
 
 
