@@ -147,5 +147,8 @@
 ### Day 25: April 30, 2018
 **Progress**: Worked more on the responsive design of the portfolio project.
 **Link to work:** neowebzen.com
+### Day 26: May 1, 2018
+**Progress**: FreeCodeCamp Intermedia Algorithm Scripting challenges
+**Link to work:**
 
 
