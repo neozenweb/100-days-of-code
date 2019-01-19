@@ -10,3 +10,10 @@
 **Link to work:** https://github.com/neozenweb/myedu
 
 
+### Day 0: January 19, 2019 
+
+**Today's Progress**: MyEdu project: Trying to play around with Bootstrap and React for the website.
+
+**Thoughts:**  Will linking the BootStrap stylesheet be sufficient for this project or should I dig deeper into React-Bootstrap components?? https://react-bootstrap.github.io/
+
+**Link to work:** https://github.com/neozenweb/myedu
