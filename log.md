@@ -1,5 +1,22 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 3: January 20, 2019 
+
+**Today's Progress**: MyEdu project: Completed the navigation bar with both the dropdowns conditionally populated.
+
+**Thoughts:**  Next step is to access data from the different APIs based on the selected subject and provider.
+
+**Link to work:** https://github.com/neozenweb/myedu
+
+
+### Day 1: January 19, 2019 
+
+**Today's Progress**: MyEdu project: Trying to play around with Bootstrap and React for the website.
+
+**Thoughts:**  Will linking the BootStrap stylesheet be sufficient for this project or should I dig deeper into React-Bootstrap components?? https://react-bootstrap.github.io/
+
+**Link to work:** https://github.com/neozenweb/myedu
+
 
 ### Day 0: January 18, 2019 
 
@@ -10,10 +27,3 @@
 **Link to work:** https://github.com/neozenweb/myedu
 
 
-### Day 0: January 19, 2019 
-
-**Today's Progress**: MyEdu project: Trying to play around with Bootstrap and React for the website.
-
-**Thoughts:**  Will linking the BootStrap stylesheet be sufficient for this project or should I dig deeper into React-Bootstrap components?? https://react-bootstrap.github.io/
-
-**Link to work:** https://github.com/neozenweb/myedu
