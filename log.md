@@ -1,6 +1,22 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
-### Day 3: January 20, 2019 
+### Day 4: January 22, 2019 
+
+**Today's Progress**: MyReads Project: This was a project from the udacity course, that I am not able to somehow deploy on github pages. I am making some changes to router and other links in the .js files.
+
+**Thoughts:**  Updating the status of new books through the search button, needs to be fixed.
+
+**Link to work:** https://neozenweb.github.io/MyReads/
+
+### Day 3: January 21, 2019 
+
+**Today's Progress**: MyEdu project: Successful in accessing the APIs for EdX and Coursera, though the EdX API gives Timeout Gateway error sometimes???
+
+**Thoughts:**  Have to decide about classifying this data based on subject or search keyword.
+
+**Link to work:** https://github.com/neozenweb/myedu
+
+### Day 2: January 20, 2019 
 
 **Today's Progress**: MyEdu project: Completed the navigation bar with both the dropdowns conditionally populated.
 
