@@ -1,4 +1,12 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+### Day 5: January 23, 2019 
+
+**Today's Progress**: Deployed MyReads project on Github. Changed the myedu programs to search keywords in course title or descriptions instead of subjects.
+
+**Thoughts:**  Getting the authentication for EdX API should help the application.
+
+**Link to work:** https://neozenweb.github.io/MyReads/
+
 
 ### Day 4: January 22, 2019 
 
