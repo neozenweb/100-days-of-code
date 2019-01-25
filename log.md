@@ -1,4 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+### Day 7: January 25, 2019 
+
+**Today's Progress**: MyEdu app: Worked on the EdX headers for the api.
+
+**Thoughts:**  The headers for the EdX work fine and get the results in the curl format but the javascript version is giving a access forbidden error!! on localhost.
+
+**Link to work:** https://neozenweb.github.io/myedu
 
 ### Day 6: January 24, 2019 
 
