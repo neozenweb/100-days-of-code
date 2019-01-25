@@ -1,4 +1,13 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+
+### Day 6: January 24, 2019 
+
+**Today's Progress**: MyEdu app: Included Home page access on menu. Worked to fix some bugs on the menu.
+
+**Thoughts:**  Would a side by side listing of courses work better? or not may be because that would slow down the app.
+
+**Link to work:** https://neozenweb.github.io/myedu
+
 ### Day 5: January 23, 2019 
 
 **Today's Progress**: Deployed MyReads project on Github. Changed the myedu programs to search keywords in course title or descriptions instead of subjects.
