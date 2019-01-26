@@ -1,4 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+### Day 8: January 26, 2019 
+
+**Today's Progress**: MyEdu app: Still struggling with the EdX API authorization to work through ajax. Did Bird Migration problem on Hackerrank and reviewed javascript objects :) 
+
+**Thoughts:**  Got to dig deeper into APIs and CORS and authorization header etc.
+**Link to work:** 
+
 ### Day 7: January 25, 2019 
 
 **Today's Progress**: MyEdu app: Worked on the EdX headers for the api.
