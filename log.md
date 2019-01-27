@@ -1,4 +1,12 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+
+### Day 9: January 27, 2019 
+
+**Today's Progress**: Some progress with the EdX API authentication token. Got some help from https://kigiri.github.io/fetch/
+
+**Thoughts:** Have to work on using the token to get the data from the API.
+**Link to work:** 
+
 ### Day 8: January 26, 2019 
 
 **Today's Progress**: MyEdu app: Still struggling with the EdX API authorization to work through ajax. Did Bird Migration problem on Hackerrank and reviewed javascript objects :) 
