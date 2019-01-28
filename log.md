@@ -1,5 +1,12 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 10: January 28, 2019 
+
+**Today's Progress**: Code is running into problems with Fetch + JWT Token + headers and gives a 403-Forbidden error. Meanwhile, I have learned how to use the chrome dev tools to trace the request in the curl or fetch format.
+**Thoughts:** Have to resolve the JWT token issue
+**Link to work:** 
+
+
 ### Day 9: January 27, 2019 
 
 **Today's Progress**: Some progress with the EdX API authentication token. Got some help from https://kigiri.github.io/fetch/
