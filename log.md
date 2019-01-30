@@ -1,5 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 12: January 30, 2019 
+
+**Today's Progress**: With some great tips from Stack Overflow advisor, I realized that I have to build Express server on node.js and then connect the data to the front end react. Today, I coded the server and tested that the data is being retrieved properly.
+***Thoughts:*** API Docs need to be more clear about the frontend/backend accessibility to avoid confusion.
+
+
 ### Day 11: January 29, 2019 
 
 **Today's Progress**: One last day of struggle with the 403-Forbidden error with the JWT token access to EdX API.
