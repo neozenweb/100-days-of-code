@@ -1,5 +1,10 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 13: January 31, 2019 
+
+**Today's Progress**: Coded the Get and Put routes from the express node server to and from the react components. Though the data is being served, the routing back to react component needs some work.
+***Thoughts:*** React setState from parent component and fetching data from the server is a bit confusing.
+
 ### Day 12: January 30, 2019 
 
 **Today's Progress**: With some great tips from Stack Overflow advisor, I realized that I have to build Express server on node.js and then connect the data to the front end react. Today, I coded the server and tested that the data is being retrieved properly.
