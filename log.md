@@ -1,5 +1,10 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 15: February 2, 2019 
+
+**Today's Progress**: Worked on the EduPath application code to fix some bugs. Next step to discover is about how to secure the API keys for github gh-pages. 
+***Thoughts:*** Docker secrets or git-secret or what next?
+
 ### Day 14: February 1, 2019 
 
 **Today's Progress**: Completed the data API server and client code for Edx, Coursera, Udacity API. 
