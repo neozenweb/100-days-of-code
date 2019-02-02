@@ -1,5 +1,10 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 14: February 1, 2019 
+
+**Today's Progress**: Completed the data API server and client code for Edx, Coursera, Udacity API. 
+***Thoughts:*** Have to research about Free Code Camp courses API.
+
 ### Day 13: January 31, 2019 
 
 **Today's Progress**: Coded the Get and Put routes from the express node server to and from the react components. Though the data is being served, the routing back to react component needs some work.
