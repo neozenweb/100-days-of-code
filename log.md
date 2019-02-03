@@ -1,5 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 16: February 3, 2019 
+
+**Today's Progress**: Used config file and .gitignore to secure the API key. 
+***Thoughts:*** Looking at Heroku for deploying the app.
+
+
 ### Day 15: February 2, 2019 
 
 **Today's Progress**: Worked on the EduPath application code to fix some bugs. Next step to discover is about how to secure the API keys for github gh-pages. 
