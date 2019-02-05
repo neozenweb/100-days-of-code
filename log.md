@@ -1,5 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 17: February 4, 2019 
+
+**Today's Progress**: Deployed the app locally on Heroku. Trying to deploy the app in production environment on Heroku.
+***Thoughts:*** Have to look into the React backpacks for Heroku.
+
+
 ### Day 16: February 3, 2019 
 
 **Today's Progress**: Used config file and .gitignore to secure the API key. 
