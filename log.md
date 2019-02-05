@@ -3,7 +3,7 @@
 ### Day 17: February 4, 2019 
 
 **Today's Progress**: Deployed the app locally on Heroku. Trying to deploy the app in production environment on Heroku.
-***Thoughts:*** Have to look into the React backpacks for Heroku.
+***Thoughts:*** Have to look into the React buildpack for Heroku.
 
 
 ### Day 16: February 3, 2019 
