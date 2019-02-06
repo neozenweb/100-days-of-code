@@ -1,5 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+### Day 18: February 5, 2019 
+
+**Today's Progress**: Worked on the deploying the app on Heroku with buildpack for React through Heroku-cra-node git repo. It took a lot of effort to distinguish between the development and production deployment. Still needs lot of work on the server calls for data. https://fast-springs-64386.herokuapp.com/
+***Thoughts:*** Very glad to have the app deployed on the Heroku site. Once the data paths are fixed, more work is needed on the look and feel of the app.
+
+
 ### Day 17: February 4, 2019 
 
 **Today's Progress**: Deployed the app locally on Heroku. Trying to deploy the app in production environment on Heroku.
