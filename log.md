@@ -1,4 +1,10 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+## Day 20: February 7, 2019 
+
+**Today's Progress**: More HackerRank problem-solving in Java, cleared some conceps about Array Vs List in Java.
+***Thoughts:*** How to use a wordpress theme and refactor into a react-redux web app?
+
+
 ## Day 19: February 6, 2019 
 
 **Today's Progress**: Solved couple of HackerRank problems in Java. Reviewing Java concepts through Udemy course courtesy Project OnRamp. 
