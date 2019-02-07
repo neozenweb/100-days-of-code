@@ -1,7 +1,7 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 ## Day 19: February 6, 2019 
 
-**Today's Progress**: Solved couple of HackerRank problems in Java. Reviewing Java concepts through Udemy course courtesy Pandora. 
+**Today's Progress**: Solved couple of HackerRank problems in Java. Reviewing Java concepts through Udemy course courtesy Project OnRamp. 
 ***Thoughts:*** Have to review the LinkedList, HashMap, Map, ArrayList, Object in Java.
 
 
