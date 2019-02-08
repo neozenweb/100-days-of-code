@@ -1,4 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+
+## Day 21: February 8, 2019 
+
+**Today's Progress**: Started learning React-Redux on freecodecamp - the React ToDo List.
+***Thoughts:*** Want to complete this module and start on a new project involving React-Redux and may be bootstrapping a free wordpress theme ??
+
+
 ## Day 20: February 7, 2019 
 
 **Today's Progress**: More HackerRank problem-solving in Java, cleared some conceps about Array Vs List in Java.
