@@ -1,5 +1,12 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+
+## Day 22: February 9, 2019 
+
+**Today's Progress**: Reviewed AngularJS concepts through Udacity. Since I have done the ToDo List in react, I may try that in Angular too. 
+*** Thoughts*** http://todomvc.com/ ...miles to go before I sleep :(
+
+
 ## Day 21: February 8, 2019 
 
 **Today's Progress**: Started learning React-Redux on freecodecamp - the React ToDo List.
