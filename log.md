@@ -1,5 +1,9 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 
+## Day 23: February 10, 2019 
+
+**Today's Progress**: Completed barebones todo list app in Angular as well as React. Will do one in vanilla JS too.
+*** Thoughts*** Are these JS frameworks really easier to work with than plain vanilla JS?? Anyways, to me, React seems to be a bit clearer of the two frameworks.
 
 ## Day 22: February 9, 2019 
 
