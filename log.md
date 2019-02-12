@@ -1,4 +1,13 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+## Day 25: February 12, 2019 
+
+**Today's Progress**:Some more HackerRank Java coding, Angular JS code fix , and have to work on homework for the GraphQL bootcamp tonight.
+**Thoughts** My machine is now supposed to be "legacy" even with Windows10, so could not install Docker. Planning to do the GraphQL homework on the heroku website as done by the instructor??
+
+## Day 24: February 11, 2019 
+
+**Today's Progress**: HackerRank problem solving in Java, worked a bit on AngularJS code for the open source project, and attended Day1 of online GraphQL bootcamp.
+Thoughts: Read somewhere that JS Frameworks = easier code maintenance and faster execution.
 
 ## Day 23: February 10, 2019 
 
