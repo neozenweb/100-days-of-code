@@ -1,4 +1,20 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
+Log
+
+## Day 28: February 15, 2019 
+ 
+**Today's Progress**: Some more Angularjs coding and GIT merging skills.
+
+## Day 27: February 14, 2019 
+
+**Today's Progress**: Installed Ruby on Rails on Windows10 and forked a
+git repo for a contribution project.
+
+## Day 26: February 13, 2019 
+
+**Today's Progress**: Worked on adding a new code snippet in AngularJS 
+for a open source project. 
+
 ## Day 25: February 12, 2019 
 
 **Today's Progress**:Some more HackerRank Java coding, Angular JS code fix , and have to work on homework for the GraphQL bootcamp tonight.
