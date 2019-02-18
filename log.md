@@ -1,6 +1,18 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
 
+## Day 31: February 18, 2019 
+ 
+**Today's Progress**: Solved some Hackerrank Java Collections problems
+## Day 30: February 17, 2019 
+ 
+**Today's Progress**: Added a spinner wheel loading page feature for an open source project.
+
+## Day 29: February 16, 2019 
+ 
+**Today's Progress**: HackerRank Java problems
+
+
 ## Day 28: February 15, 2019 
  
 **Today's Progress**: Some more Angularjs coding and GIT merging skills.
