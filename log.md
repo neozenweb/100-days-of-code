@@ -1,5 +1,11 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 31: February 20, 2019 
+ 
+ **Today's Progress**: Bootstrap concepts on Freecodecamp.
+## Day 32: February 19, 2019 
+ 
+**Today's Progress**: Reviewed ES6 concepts on freecodecamp
 
 ## Day 31: February 18, 2019 
  
