@@ -1,5 +1,8 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 34: February 21, 2019 
+ 
+ **Today's Progress**: Learned about making a dialog using MatDialog in AngularJS and did some more ES6 on freecodecamp.
 ## Day 33: February 20, 2019 
  
  **Today's Progress**: Bootstrap concepts on Freecodecamp.
