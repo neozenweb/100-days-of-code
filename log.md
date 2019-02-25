@@ -1,5 +1,9 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 35: February 24, 2019 
+ 
+ **Today's Progress**: Last two days, I was busy with installing the dev environment for an open source project involving Node, React and Ruby. Today, I created a confirmation dialog modal component in AngularJS for another project.
+
 ## Day 34: February 21, 2019 
  
  **Today's Progress**: Learned about making a dialog using MatDialog in AngularJS and did some more ES6 on freecodecamp.
