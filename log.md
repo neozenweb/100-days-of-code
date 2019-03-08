@@ -1,5 +1,9 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 38: March 8, 2019 
+ 
+ **Today's Progress**: Revisited Linux commands and concepts, while installing Ruby Rails on Ubuntu.
+ 
 ## Day 36: March 7, 2019 
  
  **Today's Progress**: Started with Java on Hackerrank. Completed Module 1 of Advanced React tutorials. Installed Ubuntu with Ruby Rails.
