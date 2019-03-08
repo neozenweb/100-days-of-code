@@ -1,5 +1,9 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 36: March 7, 2019 
+ 
+ **Today's Progress**: Started with Java on Hackerrank. Completed Module 1 of Advanced React tutorials. Installed Ubuntu with Ruby Rails.
+
 ## Day 35: February 24, 2019 
  
  **Today's Progress**: Last two days, I was busy with installing the dev environment for an open source project involving Node, React and Ruby. Today, I created a confirmation dialog modal component in AngularJS for another project.
