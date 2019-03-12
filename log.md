@@ -1,5 +1,8 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 40: March 11, 2019 
+ 
+ **Today's Progress**: Javascript30 challenge VanillaJS started working on #1 Drum Kit
 ## Day 38 & 39: March 9 and 10, 2019 
  
  **Today's Progress**: Hackerrank Java problems.
