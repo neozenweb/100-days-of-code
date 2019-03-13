@@ -1,5 +1,8 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 41: March 11, 2019 
+ 
+ **Today's Progress**: Javascript30 challenge VanillaJS completed challenge# 1 and 2. Trying Adobe XD with tutorials.
 ## Day 40: March 11, 2019 
  
  **Today's Progress**: Javascript30 challenge VanillaJS started working on #1 Drum Kit
