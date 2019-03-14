@@ -1,5 +1,8 @@
 # NeoZenWeb- 100 Days Of Code- Take 2 - Log
 Log
+## Day 42: March 13, 2019 
+ 
+ **Today's Progress**: Javascript30 challenge#3 and some Java coding on HackerRank. Installed another git repo and learning about static page server Hugo. 
 ## Day 41: March 12, 2019 
  
  **Today's Progress**: Javascript30 challenge VanillaJS completed challenge# 1 and 2. Trying Adobe XD with tutorials.
